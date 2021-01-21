@@ -1,6 +1,11 @@
-.pokemon{
+.person{
   border: 1px solid red;
-  margin: 5px;
+  margin: 20px;
   text-align: center;
+}
+
+.img {
+  border-radius: 100%;
+  width: 100px;
 }
 

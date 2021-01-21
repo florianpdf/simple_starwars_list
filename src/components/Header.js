@@ -1,12 +1,14 @@
 import React, { Component } from 'react'
 
+import './Header.css';
+
 class Header extends Component {
 
   render() {
 
     return (
       <div>
-        <h1>{this.props.title} list - {this.props.total}</h1>
+        <h1 className='title'>{this.props.title} list - {this.props.total}</h1>
       </div>
     )
   }
