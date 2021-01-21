@@ -2,7 +2,6 @@ import Cards from './components/Cards';
 import Header from './components/Header';
 
 import starwars from './data/starwars'
-import './App.css';
 
 function App() {
   

@@ -110,7 +110,8 @@ const starwars = [
   {
     "id": 20,
     "name": "Yoda",
-    "pic": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png"
+    "pic": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png",
+    "homeworld": "naboo"
   },
   {
     "id": 21,
